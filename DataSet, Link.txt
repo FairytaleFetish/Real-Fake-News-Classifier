@@ -1,0 +1,3 @@
+The DataSets could not be upladed to the repository, owing to the space restrictions imposed by the platform.
+
+They can be accessed using the following link: https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset?select=True.csv
